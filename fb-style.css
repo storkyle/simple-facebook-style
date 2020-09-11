@@ -1,0 +1,15 @@
+div[role="banner"] {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  max-width: 1444px;
+  margin: 0 auto;
+  width: 100%;
+  height: 80px;
+  transform: translateX(-50%);
+  z-index: 99999;
+}
+body {
+  max-width: 1444px;
+  margin: 0 auto !important;
+}
